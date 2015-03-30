@@ -1,2 +1,4 @@
 branch b
  second commit
+ 3rd commit
+ forth commit
